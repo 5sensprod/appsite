@@ -13,7 +13,7 @@ Application desktop moderne construite avec Electron, React et Vite.
 ## Installation
 
 ```bash
-git clone https://github.com/votre-username/appsite.git
+git clone https://github.com/5sensprod/appsite.git
 cd appsite
 npm install
 ```
