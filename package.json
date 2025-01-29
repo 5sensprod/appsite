@@ -1,5 +1,5 @@
 {
-  "name": "appsite",
+  "name": "vitelectailwind",
   "main": "electron/main.js",
   "private": true,
   "version": "0.0.1",
